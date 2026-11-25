@@ -254,6 +254,43 @@ The challenge notes describe the following activity sequence:
 
 Taken together, these indicators describe a sequence involving reconnaissance, suspected web shell upload, remote command execution, and an attempted or established reverse connection.
 
+### Web Shell Attack Investigation Flow
+
+```mermaid
+flowchart TD
+    A["PCAP: BTLOPortScan.pcap<br/>Challenge findings from notes"]
+
+    A --> B["Network reconnaissance"]
+    B --> B1["Source: 10.251.96.4"]
+    B1 --> B2["TCP SYN scan<br/>Observed ports: 1-1024"]
+
+    A --> C["HTTP reconnaissance"]
+    C --> C1["Gobuster 3.0.1"]
+    C --> C2["SQLmap 1.4.7"]
+
+    A --> D["Web shell upload activity"]
+    D --> D1["POST /upload.php"]
+    D1 --> D2["Referer: editprofile.php"]
+    D2 --> D3["Filename: dbfunctions.php<br/>Upload attempt"]
+
+    D3 --> E["Web shell request indicators"]
+    E --> E1["/uploads/dbfunctions.php"]
+    E1 --> E2["Parameter: cmd"]
+    E2 --> E3["First recorded command: id"]
+    E2 --> E4["Additional command: whoami"]
+
+    E --> F["Python socket connection"]
+    F --> F1["Configured destination:<br/>10.251.96.4:4422"]
+    F1 --> F2["Reverse shell behavior<br/>Connection success not confirmed"]
+
+    style A fill:#263b55,color:#fff
+    style D3 fill:#70552b,color:#fff
+    style E3 fill:#7b3030,color:#fff
+    style F2 fill:#7b3030,color:#fff
+```
+
+**Evidence note:** The diagram summarizes findings reproduced from the original challenge notes. The original PCAP was not independently re-analyzed during repository documentation. The multipart filename does not independently confirm successful file storage, command requests do not prove successful execution, and the configured reverse connection does not confirm that a connection or interactive shell was established.
+
 ## Key Indicators
 
 | Indicator | Value | Context |
