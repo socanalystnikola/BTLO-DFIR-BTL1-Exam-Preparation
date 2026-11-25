@@ -1,4 +1,6 @@
-﻿# BTLO / DFIR Challenges — BTL1 Exam Preparation
+# BTLO / DFIR Challenges — BTL1 Exam Preparation
+
+![BTLO DFIR BTL1 Exam Preparation](evidence/images/BTLO-DFIR-BTL1-Hero.png)
 
 ## Overview
 
