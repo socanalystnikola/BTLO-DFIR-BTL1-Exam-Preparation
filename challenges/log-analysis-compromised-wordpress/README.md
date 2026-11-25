@@ -187,6 +187,38 @@ The challenge evidence supports the following investigation sequence:
 
 This sequence provides a useful example of how web server access logs can help reconstruct attacker activity and identify potentially compromised application components.
 
+### WordPress Compromise Investigation Flow
+
+The diagram below summarizes the indicators identified in the challenge notes. It is an investigative overview, not a verified chronological attack timeline.
+
+```mermaid
+flowchart TD
+    A["Apache access.log<br/>Combined Log Format"]
+
+    A --> B["WordPress authentication activity"]
+    B --> B1["wp-login.php<br/>itsec-hb-token=adminlogin"]
+
+    A --> C["Attacker tooling indicators"]
+    C --> C1["sqlmap"]
+    C --> C2["WPScan"]
+
+    A --> D["Vulnerable components<br/>Challenge findings"]
+    D --> D1["Contact Form 7<br/>CVE-2020-35489"]
+    D --> D2["Simple File List 4.2.2<br/>CVE-2020-36847"]
+
+    A --> E["PHP web shell indicator"]
+    E --> E1["fr34k.php"]
+
+    E1 --> F["Final recorded HTTP request"]
+    F --> G["HTTP 404<br/>Not Found"]
+
+    style A fill:#263b55,color:#fff
+    style D fill:#70552b,color:#fff
+    style E1 fill:#7b3030,color:#fff
+    style G fill:#7b3030,color:#fff
+```
+**Evidence note:** The diagram summarizes findings reproduced from the original challenge notes. The raw `access.log` was not independently re-analyzed during repository documentation. The recorded HTTP 404 response does not establish when or why the web shell became unavailable, nor does it prove successful code execution.
+
 ## 8. BTL1 Learning Outcomes
 
 This challenge reinforces practical skills relevant to Blue Team and DFIR investigations:
