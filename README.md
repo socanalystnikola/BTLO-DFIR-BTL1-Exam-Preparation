@@ -41,16 +41,25 @@ All documented exercises were performed in a **Kali Linux** environment.
 
 | Challenge | Category | Documentation |
 |---|---|---|
-| Injection Series Part 3 | Malware Analysis / Reverse Engineering | [View Challenge](challenges/injection-series-part-3/README.md) |
-| Malicious PowerShell Analysis | Malware Analysis / PowerShell Analysis | [View Challenge](challenges/malicious-powershell-analysis/README.md) |
-| Reverse Engineering - A Classic Injection | Malware Analysis / Reverse Engineering | [View Challenge](challenges/reverse-engineering-a-classic-injection/README.md) |
+| ATT&CK | Threat Intelligence / MITRE ATT&CK | [View Challenge](challenges/attack/README.md) |
+| Barcode World | Miscellaneous / Data Decoding | [View Challenge](challenges/barcode-world/README.md) |
+| Classical City | Cryptography / Classical Ciphers | [View Challenge](challenges/classical-city/README.md) |
+| D3FEND | Defensive Framework / Threat Detection | [View Challenge](challenges/d3fend/README.md) |
 | Follina - CVE-2022-30190 | Malware Analysis | [View Challenge](challenges/follina/README.md) |
-| Suspicious USB Stick | Digital Forensics / Malware Analysis | [View Challenge](challenges/suspicious-usb-stick/README.md) |
-| Memory Analysis - Ransomware | Memory Forensics / Malware Analysis | [View Challenge](challenges/memory-analysis-ransomware/README.md) |
+| Injection Series Part 3 | Malware Analysis / Reverse Engineering | [View Challenge](challenges/injection-series-part-3/README.md) |
 | Log Analysis - Compromised WordPress | Log Analysis / Web Application Security | [View Challenge](challenges/log-analysis-compromised-wordpress/README.md) |
+| Log Analysis - Privilege Escalation | Log Analysis / Linux Privilege Escalation | [View Challenge](challenges/log-analysis-privilege-escalation/README.md) |
 | Log Analysis - Sysmon | Log Analysis / Malware Analysis | [View Challenge](challenges/log-analysis-sysmon/README.md) |
-
-Additional challenge write-ups will be added as the portfolio develops.
+| Malicious PowerShell Analysis | Malware Analysis / PowerShell Analysis | [View Challenge](challenges/malicious-powershell-analysis/README.md) |
+| Memory Analysis - Ransomware | Memory Forensics / Malware Analysis | [View Challenge](challenges/memory-analysis-ransomware/README.md) |
+| Meta | Challenge Preparation / File Analysis | [View Challenge](challenges/meta/README.md) |
+| Network Analysis - Malware Compromise | Network Analysis / Malware Analysis | [View Challenge](challenges/network-analysis-malware-compromise/README.md) |
+| Network Analysis - Web Shell | Network Analysis / Web Shell Investigation | [View Challenge](challenges/network-analysis-web-shell/README.md) |
+| Reverse Engineering - A Classic Injection | Malware Analysis / Reverse Engineering | [View Challenge](challenges/reverse-engineering-a-classic-injection/README.md) |
+| Secure Shell | Network Security / SSH | [View Challenge](challenges/secure-shell/README.md) |
+| Squid Game | Miscellaneous / Challenge Investigation | [View Challenge](challenges/squid-game/README.md) |
+| Suspicious USB Stick | Digital Forensics / Malware Analysis | [View Challenge](challenges/suspicious-usb-stick/README.md) |
+| The Report II | SOC Operations / SOC Strategy | [View Challenge](challenges/the-report-ii/README.md) |
 
 ## Documentation Approach
 
@@ -73,23 +82,3 @@ All activities are performed in controlled lab environments. The documented tech
 ---
 
 **Portfolio:** BTLO / DFIR Challenges — BTL1 Preparation
-
-
-
-
-| Log Analysis - Privilege Escalation | Log Analysis / Linux Privilege Escalation | [View Challenge](challenges/log-analysis-privilege-escalation/README.md) |
-| Network Analysis - Web Shell | Network Analysis / Web Shell Investigation | [View Challenge](challenges/network-analysis-web-shell/README.md) |
-
-
-
-| Network Analysis - Malware Compromise | Network Analysis / Malware Analysis | [View Challenge](challenges/network-analysis-malware-compromise/README.md) |
-| ATT&CK | Threat Intelligence / MITRE ATT&CK | [View Challenge](challenges/attack/README.md) |
-
-| Barcode World | Miscellaneous / Data Decoding | [View Challenge](challenges/barcode-world/README.md) |
-
-| Classical City | Cryptography / Classical Ciphers | [View Challenge](challenges/classical-city/README.md) |
-
-| D3FEND | Defensive Framework / Threat Detection | [View Challenge](challenges/d3fend/README.md) |
-
-
-| The Report II | SOC Operations / SOC Strategy | [View Challenge](challenges/the-report-ii/README.md) |
