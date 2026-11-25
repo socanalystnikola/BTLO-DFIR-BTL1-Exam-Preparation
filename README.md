@@ -1,4 +1,4 @@
-﻿# BTLO / DFIR Challenges — BTL1 Preparation
+﻿# BTLO / DFIR Challenges — BTL1 Exam Preparation
 
 ## Overview
 
@@ -81,4 +81,4 @@ All activities are performed in controlled lab environments. The documented tech
 
 ---
 
-**Portfolio:** BTLO / DFIR Challenges — BTL1 Preparation
+**Portfolio:** BTLO / DFIR Challenges — BTL1 Exam Preparation
