@@ -161,6 +161,37 @@ The command history provides indicators of several activities:
 
 These findings describe activity recorded in the available shell history. They do not independently establish successful exploitation, successful file upload, or the final privilege level obtained by the attacker.
 
+## Linux Privilege Escalation Investigation Flow
+
+The diagram below groups the observations recorded in the `bash_history` evidence into investigative categories. It does not represent a confirmed attack timeline.
+
+```mermaid
+flowchart TD
+    A["bash_history evidence<br/>Findings transcribed from challenge notes"]
+
+    A --> B["User / environment discovery"]
+    B --> B1["cd /home/daniel/"]
+
+    A --> C["Tool acquisition attempt"]
+    C --> C1["wget linux-exploit-suggester.sh"]
+
+    A --> D["Network analysis tool"]
+    D --> D1["tcpdump command recorded"]
+
+    A --> E["Web application activity"]
+    E --> E1["rm .../uploads/x.phtml recorded"]
+
+    A --> F["Potential privilege escalation"]
+    F --> F1["Python executable"]
+    F1 --> F2["sh -p"]
+    F2 --> F3["SUID misconfiguration<br/>Challenge finding; not independently verified"]
+    F3 --> G["Root-level access<br/>Not independently confirmed"]
+
+    style A fill:#263b55,color:#fff
+    style F3 fill:#7b3030,color:#fff
+    style G fill:#7b3030,color:#fff
+```
+
 ## Key Indicators
 
 | Indicator | Context |
