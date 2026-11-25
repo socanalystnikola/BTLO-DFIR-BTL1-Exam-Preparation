@@ -213,6 +213,30 @@ The challenge notes describe the following attack sequence:
 
 This sequence provides a useful investigative model for correlating Sysmon process and network events.
 
+### Sysmon Attack Chain Reconstruction
+
+```mermaid
+flowchart TD
+    A["Sysmon JSON event log<br/>(findings transcribed from notes)"]
+    A --> B["Initial execution"]
+    B --> B1["mshta.exe executes updater.hta"]
+    A --> C["PowerShell download activity"]
+    C --> C1["Invoke-WebRequest"]
+    C1 --> C2["supply.exe<br/>192.168.1.11:6969"]
+    A --> D["Environment / process findings"]
+    D --> D1["COMSPEC -> C:\windows\temp\supply.exe"]
+    D --> D2["ftp.exe - LOLBIN"]
+    D --> D3["supply.exe executes ipconfig"]
+    D --> D4["python27.dll dependency"]
+    A --> E["Additional tool download"]
+    E --> E1["JuicyPotato.exe"]
+    A --> F["Network activity"]
+    F --> F1["nc.exe"]
+    F1 --> F2["192.168.1.11:9898<br/>connection attempt"]
+```
+
+> **Evidence note:** This diagram summarizes findings recorded in the challenge notes. The original Sysmon JSON was not independently re-acquired and re-analyzed for this repository entry. Exact timestamps, PIDs, parent-child relationships and event order remain unverified. Successful privilege escalation and reverse-shell connection are not confirmed.
+
 ## Key Indicators
 
 | Indicator | Value | Context |
