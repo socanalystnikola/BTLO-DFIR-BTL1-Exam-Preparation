@@ -1,0 +1,23 @@
+Follina
+(On a Friday evening when you were ina mood to celebrate your weekend, your team was alerted with a
+‘new RCE wulnerbilty actively being exploited.
+|e es “A enema tm
+peers cay sms o
+« tomy 08 ndoenuna
+Challenge Submission
+oer Paso <3 ‘Question 1) Whats the SHAT hash value ofthe sample? (Format: SHATHaSh)
+Sohved!
+‘arenes created By ‘Question 2) According to VusTotal, what is the ful letype ofthe provided sample? (Format XXXX) =
+‘Question 3} Extract the URL that is used within the sample and submitt (Format: btps:/x domain t/path/ta/something)
+Recent Solves
+‘Question 4) What is the name of the XML file that s storing the extracted URL? (Format: filename ext)
+@ Longe Gctgee ae ‘Question 5) The extracted URL accesses a HTML file that triggers the vulnerability to execute a malicious payload. According to the HTML processing functions, any files with fewer than <Number> bytes would not
+invoke the payload. Submit the <Number> (Format: Number of Bytes) 0
+@ w- a ‘Question 6) After execution the sample wll tr oll a process iit is already running, Whatis the name ofthis process? (Format: filename ext)
+Sobved!
+‘Question 7) You were asked to write a process-based detection rule using Windows Event ID 4688, What would be the ProcessName and ParentProcessnarne used in this detection ule? (Hint: OSINT time! (Format:
+ProcessName, ParentProcessName) |.
+Sohed!
+‘Question } Submit the MITRE technique ID used bythe sample for Execution Hint Online sandbox platforms can help] (Format: TXIKX)
+Sohed!
+‘Question 9} Submit the CVE associated withthe vulnerability tht is being exploited (Format: CVEXOO0X000) >=

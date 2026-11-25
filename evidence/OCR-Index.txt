@@ -1,0 +1,939 @@
+﻿===== Screenshot_1.txt =====
+Follina
+(On a Friday evening when you were ina mood to celebrate your weekend, your team was alerted with a
+â€˜new RCE wulnerbilty actively being exploited.
+|e es â€œA enema tm
+peers cay sms o
+Â« tomy 08 ndoenuna
+Challenge Submission
+oer Paso <3 â€˜Question 1) Whats the SHAT hash value ofthe sample? (Format: SHATHaSh)
+Sohved!
+â€˜arenes created By â€˜Question 2) According to VusTotal, what is the ful letype ofthe provided sample? (Format XXXX) =
+â€˜Question 3} Extract the URL that is used within the sample and submitt (Format: btps:/x domain t/path/ta/something)
+Recent Solves
+â€˜Question 4) What is the name of the XML file that s storing the extracted URL? (Format: filename ext)
+@ Longe Gctgee ae â€˜Question 5) The extracted URL accesses a HTML file that triggers the vulnerability to execute a malicious payload. According to the HTML processing functions, any files with fewer than <Number> bytes would not
+invoke the payload. Submit the <Number> (Format: Number of Bytes) 0
+@ w- a â€˜Question 6) After execution the sample wll tr oll a process iit is already running, Whatis the name ofthis process? (Format: filename ext)
+Sobved!
+â€˜Question 7) You were asked to write a process-based detection rule using Windows Event ID 4688, What would be the ProcessName and ParentProcessnarne used in this detection ule? (Hint: OSINT time! (Format:
+ProcessName, ParentProcessName) |.
+Sohed!
+â€˜Question } Submit the MITRE technique ID used bythe sample for Execution Hint Online sandbox platforms can help] (Format: TXIKX)
+Sohed!
+â€˜Question 9} Submit the CVE associated withthe vulnerability tht is being exploited (Format: CVEXOO0X000) >=
+
+
+===== Screenshot_2.txt =====
+The Report
+Mit eer re mere rere mr
+ote ee aeolian
+= etme tm
+o a tm Cece Challenge Submission
+= a Re oe eyes
+bo = â€”â€” |
+ie rae FE ern a ye
+tom ~- me _
+I pr
+= =
+@ ~~ Chenin et eo se yey or inte A gb YTEN pg Pom CEE) =
+â€”
+@ - .
+er eee
+e - =i
+@ ~~ 5 Oa ee
+@ ~~ _ te
+ea ng a
+=
+gre a a ay
+FS
+pe erat ae
+=
+rr ay
+me
+
+
+===== Screenshot_3.txt =====
+Ce ef ee
+ThePackage
+martes ae ouing kt ahacter wo it pang sea powedevce
+cane
+= = = SS ea
+leet a sremise Challenge Submision
+{ny wratbe name ole WH naching ence? amst x)
+peeve emmy A
+wi vee me "=" cq mta maneneci ne wast cms bomen fees? Perma tae) =
+sexes
+= 483) what ise name of he fv containing he formation of location? (Format ftename extension) 5
+Oa = â€˜pg recente fe ecg Pama
+eo peetren ine tom 425) Weere isthe detwery gong o be? (Format Lacaten Name)
+sone
+
+
+===== Screenshot_4.txt =====
+Secrets
+â€˜eure asenct ope secant greet an rg yu! nf me ve rlerepies noes high rule tons Hamme
+eure at cut be erties 9s mate
+-
+rome a â€” Â«
+: re a ami
+eet mowmeey
+eâ€” = fe __Chatenge Submision
+1) con youisentily te nae of eter? Fomat Sting)
+Recent Satoes Lael
+e- ath eat a ne srs of i toter (Foret Section Secton Section)
+sone!
+.
+43) rate et you oud bom tis es? Fast Sng) =~
+, on some
+ew - (48) Wat ia he Secret? Format Sting)
+a
+43) canougeere anew wife sgnaie Set win stow pigs (Famat Sing Sing Sting)
+sewes!
+
+
+===== Screenshot_5.txt =====
+a ee eer on geen
+Shiba Insider a aa
+â€˜can youuncove te ier? ;
+A a ne rexponce message cbtares hom te FAP He?
+Â° =" = te tant
+as atic Pe paceman of eZ fe?
+â€˜= _ tere
+â€” cnet, mre passwort be requ?
+e- -- Ro â€œ|=
+at Pe name fs maeiysced tt mat cance weed obtan fe wlan?
+sae aes sone
+C ed - What he name and value ofthe nteresting nformation obtained from te image fie metadata? =~
+CaS
+fBasesontve answer bom trepreneus questo what oo Nees oe wie eve Reinfomaten mazen nef?
+@ woe
+. ae ~ er eee
+C Ms Sonect
+ats be pote name of ne atch?
+sone
+
+
+===== Screenshot_6.txt =====
+D3FEND
+re ee en ee ee
+Seettereaeyane
+sere
+on tom a Â® LS
+â€œ fon a ame
+ram oe
+pee ce
+e~â€” mos ine mace: ath ecepeng ener DUNO 9
+meee
+ed â€˜at ae the five general tactics used o cinsaify each defensive metho? nthe cece hey appeat) p=Â»
+e-- _ oo
+_ peer tn A a se pe MATIC pe a A? om
+@ ~
+e-- :
+tae Yes ate a nt
+e reteset - sone
+e-â€”~â€” oe
+pa
+
+
+===== Screenshot_7.txt =====
+Spectrum
+sc Sy
+eapieerinloe ra
+(fm siothem epi tity oles
+= me . .
+= = (tant ee at me
+Retr i ees
+eee
+oâ€” ~~ hm mm eeemretenctante teen
+ey
+Ei ae
+o- -
+
+
+===== Screenshot_8.txt =====
+Phishing Analysis 2
+eee
+oe A naam
+= = = P
+: = = ae
+corte
+| ae = Geminis; hatin Pe secingema aes? n=
+es
+eee
+tel ome 2 mo â€”
+ae â€”â€”â€”
+au
+[ -
+Sere
+e- - =
+e- = ats at aa ne eats (cope ome ete
+e- - =
+ie Spee ane
+=
+â€˜Look at the URL using URL2PNG What 1 the frst sentence (heading) cisplayed on tus site? (regardless of wheter you think the ste a malcous or rot)
+=
+Se
+a
+nA
+na
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
+=
+
+
+===== Screenshot_9.txt =====
+PowerShell Analysis - Keylogger
+A rtp Rovers spas angonone tsar ecpants Cann xt wnt et?
+â€” a â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€” eee
+pas â€” =e o
+â€˜ = Se ene
+Challenge Submission
+~~ b= rN omen â€˜mats te SHA230 naa vue for he Powershet cnpt Se
+toned!
+aangâ€™ = 2 \Vimat emai eckiress is used to send and receive emaita?
+a = Bw â€”
+a at ae psemerd er ie mat seccuNe
+bay a
+o- tpt tra
+e- ky es
+, os cove mat OLLin imported hep reco pes pm
+e- ; ual
+at deca ithe genet fe pati?Â»
+somes!
+
+
+===== Screenshot_10.txt =====
+Malware Analysis - Ransomware Script
+one of wet servers een ot capone west wane Ly we ha arse pit jefe fees
+snr crryptes. ae mirage recovâ€™ 8 uxpciou srg He Pat 30Â° apes hve Been a et
+ti SSeS Eas
+- a ae .
+: bs oo Secnuime Challenge Submizson
+A __tntpemicsu ete omental ne ne
+â€”â€” boo=â€”s vy ont RS,
+eens me Te ropa apige is eneve wo cot ard ses yur tinal em Whale carrans ete emove e yar eg ewan?
+Amestge crested ne Se tet What ee eet wr?
+Recent Satees ones
+OQ == ._Twemessage so conta contact erases to ave he yt fae Whats
+e
+ren fies ae encrypted an muni een ued Wt Po
+e= â€˜There are 3 functions associated mth the encryption process that start wih eryptâ€™ Wout ae they ithe one theyre actaaby executes w the sorge? (Somat nchide T))
+â€˜The sp wi check ate i oso he 2 ee Wa efi URL cf le?
+ones!
+
+
+===== Screenshot_11.txt =====
+Reverse Engineering - Another Injection
+â€˜Tree ae many econ tecrnigues ved ty mama metemanies n arent etrakgs AnoyEe MN simple HER Ue
+ect cen anand et cont
+ee ie tne â€”â€”eâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€” EE
+o pe io Sem Challenge Sbeisson
+= ais be angiage De progam iter?
+1 ho foresee] Sent sey
+resaeas omnes ati eae?
+e- vee me â€” â€”
+ats be pendency pachage the samp wes erimanig windows APIS =~
+Recent Stes â€”
+e~- ous Mat even poe 280)
+@
+ats be process ewcte rm Re Betease? Â©
+o_ matin te name af ne estes fe?
+ata be name of te actu to ened? op
+seve
+
+
+===== Screenshot_12.txt =====
+Phishing Analysis
+Awernas mcene ging em ana forvarce toe 0. can you tnesgue ne ea and tc octet te
+sree?
+Tettde ate itt INS SSE
+pan ped an .
+: < i Sneha etmisen
+ape x aon pinay cpio ikem ae
+ium â€˜eoaier weatisve nejectol nema? j=
+e~ = a
+at neces
+eens Sates omen
+e--â€” Meats ne gg?
+sone
+e- -
+â€˜rau ees Gn i ane, wat isn ested oe (uci omen com)
+e- rs
+e-~ matin ne ae te te et
+eo _ se
+iat ne UL fund ii eT
+some
+at sence is wenpage a en ae
+ses
+ng URLIPNG wea se net ea he ge (Dear mae he page as ben ten dom)
+sone
+
+
+===== Screenshot_13.txt =====
+ATT&CK
+ee ee er cee
+pre ocala eri
+es A ence mm
+Fe
+open
+1 eine
+= pil . or I ar EO
+ry on = od â€˜dows enwronment)
+=
+ea a ere ne erenem
+Bm me aw -*
+pte
+ee BI pet
+=
+eu "
+Fr ere
+, oe ase
+@ rane ~ [Vang Pass the Hest tecrque to enter and contra remote systems on anetwork 1s commean How mostd you detect â‚¬m your company?
+oe. a
+
+
+===== Screenshot_14.txt =====
+ILOVEYOU
+owe mages ora were ang melee
+Cee snernng Ree nr eesny rence eerie Pah
+et een a he WEY a
+"escape ora rac cna lraere
+te me |
+= oe = :
+7 = = Sante hang ai
+<= teat ete ep lone ee ee mee
+= fm on
+pases oo sat be mannan eae ee Ne gE =
+Co a ome te
+â€˜ere npc Noctis wet wet
+â€” aaa
+e-- tea nena tent ese
+e~- a
+e- ei tem beget oe a age 9
+sore
+oo atin tenant ee rent ene nwa es yee ey ase
+e-- â€” ee
+tae rame oe tn arg rn Pat commute eam?
+ne
+ate teraneol neat sence geet eae
+se
+seat eng eypaie emg et fog me
+soe
+at ett sn epi eee a nee
+save
+
+
+===== Screenshot_15.txt =====
+Melissa
+sk a nee re
+ee aaa ee
+22 a nm i
+ban = - -
+: = = Soe
+oe re SS) (Sane eee ee
+=
+hokey Comme Aher dentttyeg weach version of wood Mebssa wis enatie af macros from sequitry
+eu â€”_ Qu me Somes!
+eee
+â€” =
+eo eel eee renee
+eo ieee \Weat  e sting used by melissa to ently whether a PC is infectes or not and decide whemet 19 colect emai addresses ormct 2
+a
+Fe a es
+Sie eae ae
+ea
+av ousat acenyeactnve commen a
+=
+
+
+===== Screenshot_16.txt =====
+Network Analysis - Web Shell
+â€˜to mane ae her SE Lara a a cnn ee ee nee pen wee ee pt
+a
+co [or â€” Sees
+par â€” een Se ee
++= â€”~- Qn s
+atte mentioning top nae mr
+e-â€”- -
+e- - se
+e - wee of cores
+OS i. i
+e- _
+Tot non coset pen rman et se ae oy?
+natn teneet ei tr ne tea ne
+Ea)
+eS]
+enna
+Wetter tn en tat meno ore?
+SS _1 -
+eee eee
+atntpe esate tn cont
+
+
+===== Screenshot_17.txt =====
+The Planets Prestige
+
+scare sane enn Doreen eee ts te burg te pa Asma tn an ar et pet ee heen
+
+â€˜creel caoom tenet ature pana Core anny Penal weed er Wan ye
+
+â€˜Te crs cere le ne enty ccna tu Pte a feat a angen taster Eaenon apes sone sue mate Hower
+
+â€˜Arc ea mtcet oiceran tn tg ets ner voter beste orate ern anos ange hemmarg mmm
+
+â€˜Seoaronon onto sre tays Ces eens suse epson mean ot
+
+â€” cee
+eT e
+
+Ll trad â€”
+cnatrge sunrise
+
+~ ae entered sete tomabone a
+
+e~ â€”~ Rm * â€”
+
+oe ie atte ty Toad ee?
+
+e~â€”â€” = sestrigsermecem
+
+e- ~ wate ened te acon wae ates bed enteunn mengen?
+
+e- - ~
+
+oe at tenerest nemaenns mia?
+
+e- m | rotene
+
+Ca â€˜ean Coe as tesoney Rees
+
+
+===== Screenshot_18.txt =====
+Employee of the Year
+canes the tet noe te Yer omar is ar wot etCompany Ls Unorhn odyJtn
+â€œcea vom ponent ae fp nth or pte recor edt rene ape peered
+=
+et me
+pens â€” = =
+- = = =
+â€”â€” = ce
+< annmener ar yo | ae,
+cceaxaoctnee
+panes
+e- amt ne
+i. Ach eLovesTiO
+Ace SoLDDErENDER
+e- ~
+= ta
+Act @musToaNga.oaR
+va tytn oe pve tia
+reed wine
+=
+OS ee
+saToenÃ©catena met
+
+
+===== Screenshot_19.txt =====
+Log Analysis - Privilege Escalation
+
+ee Re ee
+
+eso vans seg uu Dr ass oof Soon: espana tn â€˜See er weed bogged
+
+Caer ever was emote access dis ue nen ure creo, Te rvdope ae et he
+
+sore shesng a -Sesad wens ad ta pa astaga lee prover pap ponds pn manus
+
+cS aston Th bok Seep jose ie sama commandi Ge pp bode Bu Sa
+
+ar pelea tae oreo
+
+ening Matra
+
+tne
+7 ea) bs â€” (Chamenge Submission
+
+a â€” hot ver (oer hn ot) is preven on he ever?
+
+aes rs
+
+Â° a hot spt i estate yo eouncnd on serve?
+
+pases hat pete antes ol i tear yt une?
+
+eeÂ» wt etnies th sec opm i pod tr npoenn yh ene?
+a â€˜2aned onthe commande ran by the stacker before removing the pp shel, weet miscenkguratin wes excited in the pyar binary to gsi rot evel noceas?1- Reverse She8;2 Fle Upload: 3+ Fle Wee; 4 SLND; & Library tes
+
+
+===== Screenshot_20.txt =====
+The Report Il
+â€˜Tas chatenge is an extension for an ensting The Report chatenge where you are working in 8 newt established 5OC
+wher there is sit fot of work 19 do te make it fly functional one. As pat ofthe SOC improvement process, you Were
+â€˜seagreca tack study 9 report eased by MITRE anc suggest rome ute outcomes fer your SOC
+== i
+= â€˜oun sm tne
+eC teen pees â€˜Question 1) Sumi the name of the unts teams (n shet form) Pat ae respanule for martaning network ans ether equpmert agent Getecbon and responde, ang securty Compliance ang nsk measurement (Format Team, Tea, Tears)
+Fen ose ecrenesy Lae
+oo me me vesese  Qeton 2) Aer vesigtn na te Amped espn Opens menos nBa8e SOC Woon mn Opn, Ope. Sons Ope)
+soveat
+eco Saves â€˜question 3) Wnst the name ofa miter strategy utedin SOC to achieve shh lve of stuacral amareness? Format Strategy Name)
+C - ome
+e- . â€˜Question 4) What the name of he supgestes ergansitonal models me constiuency sae between 1000 16 10.000 employees (Format OrGarvsstions Mode Name)
+Soteat
+o~ a ep)
+. eo - ae
+eu - â€˜Questor 6) In Coorinating & Natcral SOC: made what ae the? functors mentoned a: Optons!Capabityuncet Expanded SOC Operations Category? (Format Function, Funcbon2)
+Sate
+â€˜Quezon 7) wnat are the tao wrual console tecmnaioge's (in short farm menticned to support Virtua! SOC/ Remote Wark scenancs ding pandemics? (Format Tecrnology?, Technology?)
+Somes!
+â€˜Question 8) wnat the name ofthe model used to Gstibute work oad of SOC 24/7 across ferent tmezcnes to emanate working at night hours? (Format: Mode! Name):
+Soteat
+â€˜Guertin 9) Sut the paorbesiLow Mesum High) actigned io Puahing nicer Treat and Presncdent Pott Scanning actus rezpecbvely 8 per the cient Phentizahon mentioned nthe cocument (Format Prerty!.Prerty2.Prerty3)
+
+
+===== Screenshot_21.txt =====
+â€˜Question 7) What are the to wrual conscte tectnoges fin short form) mentioned to rupport Virtual SOC Remote Wok scenance during pandemics? (Formst Technology? Technlogy2) =~
+
+â€˜sonee!
+
+â€˜Question 8) What is he name of the model used to aisibute work nec of SOC 24/7 across afferent imezones to eiminate working a ight hours? (Form: Model Name). \o=:
+
+Soeeat
+
+â€˜Question 9) Suomt the ponbes(Low, Medium High) assigned to Praning inser Test and Pre inciert Pot Scanning activites respectvety as per the dent Priontzation mentioned m the document (Format: Protay?, Prorty2, Pretty) >
+Soneat
+
+â€˜Question 1) Merton te name of te Open source Operating system mentioned that can help in mobie nccent investigations (Format OS Mame)
+
+â€˜sonea!
+
+â€˜Question 11) Before choosng a CTI too. the document suggests tool suppert for 2 open tweatintetigence standards (shert forma) what are they? (Format Standard}, Standard2)
+
+â€˜Sota!
+
+â€˜question 12) Name the Data Source which consumes the taghest youre (typically TBx/day)? (Format Data Source Name) Â©
+
+â€˜sonea!
+
+â€˜Question 13) order to support forensics, what i the recommenced dat retention period (m months) to store logged EDR data? (Forms # of Months) s=:
+
+Sores!
+
+â€˜Question 14) Acconting to he tet intetigence concept te Pyramid of Pat. wnatinicstos are Thval, Easy Chatenging. Tough fr adversates to change? (Forms Incicator indicstor2, Indicatorâ€™. Indistord)
+Sonat
+
+â€˜Question 15) Name of the Red Teaming approach to mime the TTPs of an adversary? (Format Approach Name) =~
+
+â€˜sotea!
+
+
+===== Screenshot_22.txt =====
+Bruteforce
+Ccanyou mae ngs tom an temp ROP trtfrce tack?
+Se iter
+= â€” _ oi
+| es = ott
+(cmanenoe sutmiosion
+rinse ecreneety
+: (qesion 1 How mony Au Far evens ee fFormat Deve of re) p=
+ae (Question 2) wats te username of eo accu tat is bing tes (Format Uremame) >=
+one
+e ae ere
+e~- = sant
+e-- = â€˜Question 4) What is he Windows Event O assisted wit hese logon flutes? (Format 10) n=
+e- = Sotest
+e@- Ganson 3 what nthe source contacting i tack? Fama XXX) en
+sonee
+â€˜quesion tat comic in aes ansciig wit (oma: Coury)
+shea
+cesion 7 wnat te ang of wou ports at were uted bye ticket make these gin request (Lowest ines Br 10341) =
+soe
+
+
+===== Screenshot_23.txt =====
+Source
+
+A waeratiey was cent ns woriy vied proauct Domrload he chalenge atacime and renew te cose t:certty
+
+*
+
+â€”=
+
+a omy = Â« SSS
+
+> pore ne eoneenn
+â€˜Chatenge suomission
+
+as bg ad â€˜wnat ise technology affected?
+
+rest e000 cree y sae
+
+[ ed oe i Soo aseg en te tat of vunerbiity categories i he chalenge scenana, which one eesenbes te ented vueraDity?
+soveat
+
+Recent Saves â€˜See he comexponaing commit How many nes of code were added when he vuersbty was nboduces?
+
+eo i Somes!
+
+Â° if â€œwnat HTTP head is requred to elit the vunerabley?
+
+e
+
+
+===== Screenshot_24.txt =====
+Veriarty
+Ol Lesage nas interceptedÂ» tranemission from 9 crm known as Monarty
+@aa@nane A etme tm
+â€” ety sone ce
+â€œchatenge submission
+| = emtmttin 61) Whats the haem pe (mag) ned byhascat io crack he password? (Foon Hash Type Numb)
+â€˜somes
+OFesttooe creamy
+(2) Whats the password Yo unloot he container (Format Password) Â©
+13) at te name of Macatys genera! sending the emai? (Foomat Festa)
+recent Saves
+Sot
+or - {e0) Wn a the meetng suppose abetting place? (Farmst Place Name Lecaton Name)
+aâ€”â€” a eee
+e~ =e {63) when is he mectng supposed tobe taking pce? (Format Yat February 1234)
+
+
+===== Screenshot_25.txt =====
+Squid Game
+â€˜wt you sume the Sques Games?
+â€”â€”â€” A ete
+mem tiem sane o
+= pens te eee
+â€œChasenge suomission
+| ed ono eminatsie Whats the phone mabe on the tation cnt in Sue Game? (Renee th eins) =
+Soveat
+OFemeswee ecrenes ey
+â€˜Can you exact something om he rtabon card fe? What is he name of MEE
+@ cme Q mimne wate) baa
+â€˜What hi text canbe covered in heft le?
+aecet saves
+Save
+eo. = eer
+e~ a Rees
+eer =
+
+
+===== Screenshot_26.txt =====
+Paranoid ~ ee
+meee om
+â€˜ste
+oe
+> es = =) jee
+sack pee tag i sce
+mine â€”
+ass = cere et
+snes event, tine teh ate?
+pelted ee eee eet
+mettre sone
+e- atime name imap tog ne
+@
+â€˜What CVE was explorted to gain roat access? (Do your researcty)
+e - .
+mat pest amenity ie oo
+e =~ â€” |e
+tie a are oc ote gee
+see
+
+
+===== Screenshot_27.txt =====
+Classical city
+ow goa oe ou wenioge anges?
+a a
+ne â€” a i
+: == = â€”
+cenanengeSuomission
+oe feared Decipher â€œThieF iT giass. [Hint flag i= meaningful ==
+, a . eee ee
+â€˜eis oheyboorderor Wtckowe.ZiftW" Mux be. oo
+ec bas
+some
+eo ~â€”â€”cnyoupyte sapeston guna "ONAN meTE91979" Dy mete
+g=â€” a es
+e-â€”â€” sa: Chech e peng Eto fe ia Yan Pape Ese Alfa Sema Yrsâ€ on
+@
+â€˜Can you cross 2 treemeterhigh fence â€œc___gfayugtt3#4000ht" 7 y=Â»
+â€˜ranpotton game? â€œCITNALLUPHERDOOWKCOSTECRE
+sores
+â€˜The is he SUPER ROT "bOnGeWiOsDnVOAURKACLIRGOUM' fant mesninghs flag) =
+sores
+â€˜you fn ma neesing #1 698912431 12732 126366088 170824112 18 10774817029 90Â°7 oom
+sone!
+
+
+===== Screenshot_28.txt =====
+Barcode World
+0 youkow ne story of barcodes?
+bem a
+â€” ety se ce
+= powad Ey te
+â€˜chatenge suomission
+| = comemstin â€”_Doyeuknow heist of aceges? on
+Soest
+Fiat ecrewes oy
+Wan =
+
+
+===== Screenshot_29.txt =====
+Injection Series Part 3
+-Anatyae tne atached EXE sample and find answers to te flowing
+ee
+â€” ety soe Â«
+| eel fo â€”â€” ra erie SS
+â€˜chatenge Submission
+eret eee ecreaesty
+â€˜Hom many arguments does the sample take?
+some!
+AOERS, â€˜Agim wats the ie of the ahetcde? @. os
+@
+on VetustAtoc what does te Ratocabn Type value represents)
+oO ae one
+C id â€˜wnat se argument requred by the sample oun te shetcoee? 2s
+@- ~~ some
+e@ a â€˜wnat she payicad m Metaspiot that mould have Deen used to generate Me shetcode?
+sovea!
+â€˜nat iste APL eco crete await coect? = =
+soneat
+â€˜nat he era function uses te copy shetcoce Detneen memery Bocas?
+sowea!
+â€˜wnat argument othe same evokes powershell process?
+sovea!
+â€˜Alter decoding te powershet ist helog names asin the onder the sergt
+
+
+===== Screenshot_30.txt =====
+Log Analysis - Sysmon
+â€˜over pide wi Syamentogs tom compromiad ene aye tg td eu he ep antiguas
+candy acer
+settee ere nec SS
+iam â€” ) .
+: bam = Sa | coma ncn
+. atte et gee aces ote tae
+eo =_ â€”â€”y
+eee pease Wat ne owe cmt we ovnoad emai ie tne pet
+et inte rane be cnicamastertn ety te enn
+cet et soveat
+e@ a ot â€˜What is the process used 8s @ LOLBIN to execute malicious commands? =.
+sovedt
+eâ€” .
+tare nese mip sane commana iste et command ene
+e@ - ve
+@ = taaegstccpeneeny ats cand mas ngo cate pn ee agg he ee i fn
+tare ten doin new le dot teat i owed
+sone!
+iat itp ace shang ptr
+sonest
+
+
+===== Screenshot_31.txt =====
+Network Analysis - Malware Compromise
+
+â€˜1-506 Analyst at Umer Corporation is gong trough SIEM ales and ues the ae fr connecter to axrown
+
+rmoicout oman
+
+on al SSS
+â€˜chatenge Suomistion
+
+Recent Saves wnat the pate IP ofthe efectes host?
+
+eâ€”- ee Se eer
+
+e-â€” (ce te mein OTP rap OT Anagy ucomig ont
+
+( eed
+â€˜Te S0Â¢ Team found Once. 8 ftow up malware hom Uren infection, tobe the cpt. The custemer who sent he the macro fei compromised Whats fe fut URL enc in rat where Uren eteves the flwup malware fom?
+
+Feaneed wrteups
+
+Oe a
+
+
+===== Screenshot_32.txt =====
+Log Analysis - Compromised WordPress
+
+â€˜one of cu WordPress see nas been compromaediut mete curenty unsure Rew The primary hypothets hat an
+
+\natales plugin wa valerie oa femte cece execution Wunerabity Wich gave an atackeacceze 1 he nar
+
+â€œoperating system a he ever
+
+oeÂ°8 os
+
+â€” aeary â€˜ane es
+
+= sn ) on
+
+a= = emma tm
+
+armen ecreneeey â€˜chatenge Suomission
+
+= en "ty neu fn ern ge panel a he sack gare ace fc ten
+
+wp 09h phprasec nb omen: amengn
+
+Recent Saves
+
+e Can you find two tone te attacker used?
+
+nena teen =
+
+rs Wipscan sgenap
+
+ry oa â€œThe atactr ted to exploit a vulneratityin â€˜Contact Foem 7 What CVE was te plugin wunerale to? (Do same researcty)
+eve-2020-35409
+
+e- ons
+
+[ . nat plug was expt to get access? Â«=
+â€˜Simple Fe Lit 42.2
+ina isthe name of the PHP we shed ie?
+
+Feanaed ite ups
+Frompep
+
+DE
+aoe
+
+
+===== Screenshot_33.txt =====
+Memory Analysis - Ransomware
+
+pal fea nto
+
+SS
+
+eps ee
+
+SSS SSS
+
+ie
+
+he _ - .
+
+ae = Sill ED
+
+e~ om Mme etna â€œgy inch ae pole eTOPst8 pence tat eto rocesen What the ama chs supicions proces? pam
+@wanadecryptce
+
+ieee
+
+* 2S ae
+
+: me
+
+bd spencer
+
+= â€”
+as
+
+= -
+
+@ eo
+Peeve eps mae
+
+femetomesg a
+
+BO OO SELL
+
+EEE)
+spent =
+
+eas) â€”-
+
+
+===== Screenshot_34.txt =====
+Suspicious USB Stick
+eof or chen informed us theytecenty sutered an employee data beach Aa statup company. they nos
+conaranee puget afocaecfor secunty and employe traning | vised hem and poke wih te relevent takers. |
+{Heo coteced seme surpiocusemats and USB ire an employe found cn ther premizes. Whe am anaiyeng the
+swapous emats, can you eck the contents on he USB ve?
+â€” Se eee es
+eae =a os Eee
+Ore creme y
+tut tae â€˜chasenge stomission
+eoâ€œ telnet eng |
+eâ€”â€” ~ | mune
+Â¢â€” a Dees ts pat is jens enced mee ges eetchan oocnr see noe
+@ a
+eâ€” a Does the fe have the correct magic amber?
+
+Wat 05 ype can the te epi (Lint ba08, Windows ee) Â©Â»
+
+ype esc )
+
+wrame
+
+â€˜A windows executables mentioned ne patie wat 87
+
+How many suspeicus/Opendcton ements does the ie nave?
+
+
+===== Screenshot_35.txt =====
+Malicious PowerShell Analysis
+savor Ou natota ofa tgs company ered Gothen agen wae conproniad sf a anyoyes pened
+vag emet config metre The cumege caused wes cial and rendted mn bisnes-mge anton
+(Comer epend had teach eto ic party cient reaponse tert asa wi the vestigation You ae # member
+(of he tem at you nave an encoded Poweranel cpt Can you desde and etl ant mala response
+fort atact?
+on Eee
+pe Piao Le)
+we Rw â€˜chatenge suamission
+â€˜at ecrty protocol is being wea fot he commcation wi a maicious consi?
+seco Sores
+e -â€”â€” ti tte nat ove
+ats â€˜vat is te demain name of the URI ending in â€˜/0F2g37Â°
+nee. te ana of te cousctes cae wht the nae of he alma?
+Oe
+
+
+===== Screenshot_36.txt =====
+scenario ==
+An intetigence agency gave us 2 zppec file to ansiyze. They say they obtained @ from = suspected teronst tying to send ia nsatetnce enc Seve pene 30 Ga, Catr oi te Sed bom & apesintstenie brie asus 8 one Be tet: Wo Nell souls eaCOre De NOAenasanat nA Su Dik eorene OR DO
+= (eter Th tae of rene ac and Tver acre nec repent firme ance tated scsi e170 endef imig ety otis of Aan Ter Dnt we Shen pee wa ences)
+estrgMitent
+5 = np fw renetng oncts
+Item cee cgnerserer
+visemes ecient
+Cnanengn seomiasion
+2 â€”â€” M ov
+secon Saves
+a .....
+
+
+===== Screenshot_37.txt =====
+Secure Shell
+
+ef eh secon sam anced una engin of ho fe.
+
+se
+
+=e oom oe Â« NS 5}
+Chutenestetseicn
+
+as = sae
+tenet rex vata te ace
+
+Ore: Bose @cremes ty barnes
+
+e- me me Bee eee eery eet sees ties emer foc ore ee oe ee neers oe
+sone
+
+(Recent Seoves: â€˜Hom many tenes did the attacker logn to these accounts? â€”-
+
+e@ py one â€˜Sotveat
+
+@ ve NUNN aR ec LS Pre
+
+aa sohee
+
+iat ate gerne og?
+
+e- = ymenin taegtntotatia nse 2m
+somet
+
+

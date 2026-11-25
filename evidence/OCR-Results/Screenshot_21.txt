@@ -1,0 +1,33 @@
+‘Question 7) What are the to wrual conscte tectnoges fin short form) mentioned to rupport Virtual SOC Remote Wok scenance during pandemics? (Formst Technology? Technlogy2) =~
+
+‘sonee!
+
+‘Question 8) What is he name of the model used to aisibute work nec of SOC 24/7 across afferent imezones to eiminate working a ight hours? (Form: Model Name). \o=:
+
+Soeeat
+
+‘Question 9) Suomt the ponbes(Low, Medium High) assigned to Praning inser Test and Pre inciert Pot Scanning activites respectvety as per the dent Priontzation mentioned m the document (Format: Protay?, Prorty2, Pretty) >
+Soneat
+
+‘Question 1) Merton te name of te Open source Operating system mentioned that can help in mobie nccent investigations (Format OS Mame)
+
+‘sonea!
+
+‘Question 11) Before choosng a CTI too. the document suggests tool suppert for 2 open tweatintetigence standards (shert forma) what are they? (Format Standard}, Standard2)
+
+‘Sota!
+
+‘question 12) Name the Data Source which consumes the taghest youre (typically TBx/day)? (Format Data Source Name) ©
+
+‘sonea!
+
+‘Question 13) order to support forensics, what i the recommenced dat retention period (m months) to store logged EDR data? (Forms # of Months) s=:
+
+Sores!
+
+‘Question 14) Acconting to he tet intetigence concept te Pyramid of Pat. wnatinicstos are Thval, Easy Chatenging. Tough fr adversates to change? (Forms Incicator indicstor2, Indicator’. Indistord)
+Sonat
+
+‘Question 15) Name of the Red Teaming approach to mime the TTPs of an adversary? (Format Approach Name) =~
+
+‘sotea!
