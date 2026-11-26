@@ -53,6 +53,7 @@ All documented exercises were performed in a **Kali Linux** environment.
 | Log Analysis - Privilege Escalation | Log Analysis / Linux Privilege Escalation | [View Challenge](challenges/log-analysis-privilege-escalation/README.md) |
 | Log Analysis - Sysmon | Log Analysis / Malware Analysis | [View Challenge](challenges/log-analysis-sysmon/README.md) |
 | Malicious PowerShell Analysis | Malware Analysis / PowerShell Analysis | [View Challenge](challenges/malicious-powershell-analysis/README.md) |
+| Malware Analysis - Phishing Analysis | Malware Analysis / Email Phishing | [View Challenge](challenges/malware-analysis-phishing-analysis/README.md) |
 | Phishing Analysis 2 | Malware Analysis / Email Phishing | [View Challenge](challenges/malware-analysis-phishing-analysis-2/README.md) |
 | Memory Analysis - Ransomware | Memory Forensics / Malware Analysis | [View Challenge](challenges/memory-analysis-ransomware/README.md) |
 | Meta | Challenge Preparation / File Analysis | [View Challenge](challenges/meta/README.md) |
