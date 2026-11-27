@@ -6,7 +6,7 @@
 |---|---|
 | Platform | Blue Team Labs Online (BTLO) |
 | Category | Digital Forensics / Steganography |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Completion Date | 23 September 2026 |
 | Completion Time | 09:15 |
 | Training Context | BTL1 preparation |

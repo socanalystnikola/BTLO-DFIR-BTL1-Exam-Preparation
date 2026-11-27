@@ -1,4 +1,4 @@
-﻿# Reverse Engineering - A Classic Injection
+# Reverse Engineering - A Classic Injection
 
 ## Challenge Information
 
@@ -6,7 +6,7 @@
 |---|---|
 | Platform | Blue Team Labs Online (BTLO) |
 | Category | Malware Analysis / Reverse Engineering |
-| Environment | Kali Linux and isolated Windows analysis VM |
+| Environment | Linux and isolated Windows analysis VM |
 | Training Context | BTL1 preparation |
 | Completion Date | 21 September 2026, 12:45 |
 
@@ -24,7 +24,7 @@ This challenge examines a Windows executable that uses process injection to exec
 
 ## Preparation
 
-The supplied archive was extracted in Kali Linux. The password recorded in the challenge notes was `infected`.
+The supplied archive was extracted in Linux. The password recorded in the challenge notes was `infected`.
 
 ## Investigation Workflow and Answers
 

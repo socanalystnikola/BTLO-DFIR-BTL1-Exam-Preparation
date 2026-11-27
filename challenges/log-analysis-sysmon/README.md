@@ -1,4 +1,4 @@
-﻿# Log Analysis - Sysmon
+# Log Analysis - Sysmon
 
 ## Challenge Information
 
@@ -7,7 +7,7 @@
 | Challenge | Log Analysis - Sysmon |
 | Category | Log Analysis / Malware Analysis |
 | Platform | Blue Team Labs Online (BTLO) |
-| Lab Environment | Kali Linux |
+| Lab Environment | Linux |
 | Evidence Type | Sysmon JSON event log |
 | Completion Date | 24 September 2026, 07:40 |
 | Status | Completed |

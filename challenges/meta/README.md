@@ -1,4 +1,4 @@
-﻿# META - Image Metadata Analysis
+# META - Image Metadata Analysis
 
 ## Challenge Information
 
@@ -7,7 +7,7 @@
 | Platform | Blue Team Labs Online (BTLO) |
 | Challenge | META |
 | Category | Digital Forensics / Metadata Analysis |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Completion Date | 23 September 2026 |
 | Completion Time | 11:31 |
 | Training Context | BTL1 (Blue Team Level 1) preparation |
@@ -28,7 +28,7 @@ The investigation uses ExifTool to inspect image properties and Reverse Image Se
 
 ## Environment and Tools
 
-All documented practical work was performed using Kali Linux.
+All documented practical work was performed using Linux.
 
 | Tool | Purpose |
 |---|---|

@@ -1,4 +1,4 @@
-﻿# Malicious PowerShell Analysis
+# Malicious PowerShell Analysis
 
 ## Challenge Information
 
@@ -7,7 +7,7 @@
 | Platform | Blue Team Labs Online (BTLO) |
 | Challenge | Malicious PowerShell Analysis |
 | Category | Malware Analysis / PowerShell Analysis |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Training Context | BTL1 (Blue Team Level 1) preparation |
 | Completion Date | 24 September 2026, 12:10 |
 | Malware Family | Emotet |
@@ -32,7 +32,7 @@ The analysis identified:
 
 | Tool | Purpose |
 |---|---|
-| Kali Linux terminal | File navigation and command execution |
+| Linux terminal | File navigation and command execution |
 | Python 3 | Base64 decoding and UTF-16LE conversion |
 | grep | Searching decoded content for relevant strings |
 | cat | Inspecting text files |

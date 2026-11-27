@@ -1,4 +1,4 @@
-﻿# Barcode World
+# Barcode World
 
 ## Challenge Information
 
@@ -7,7 +7,7 @@
 | Challenge | Barcode World |
 | Platform | Blue Team Labs Online (BTLO) |
 | Category | Miscellaneous / Data Decoding |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Primary Tools | Python 3, OpenCV, pyzbar, awk, grep |
 | Evidence Screenshot | `images/Screenshot_28.png` |
 | Objective | Decode barcode images and recover the challenge flag |
@@ -39,7 +39,7 @@ The screenshot was copied from the original evidence directory. Its SHA256 hash 
 
 ## Investigation Methodology
 
-### 1. Prepare the Kali Linux environment
+### 1. Prepare the Linux environment
 
 The investigation notes specify the following system packages:
 
@@ -62,7 +62,7 @@ Install the required Python libraries:
 pip install pyzbar opencv-python pillow
 ```
 
-Using a virtual environment avoids installing Python packages into the system-managed Python environment and helps address Kali Linux PEP 668 restrictions.
+Using a virtual environment avoids installing Python packages into the system-managed Python environment and helps address Linux PEP 668 restrictions.
 
 ### 2. Decode barcode images
 
@@ -231,7 +231,7 @@ This challenge provides practical experience with:
 - Understanding decimal ASCII representation.
 - Using `awk` for text transformation.
 - Searching extracted content with `grep`.
-- Managing Python dependencies in Kali Linux with virtual environments.
+- Managing Python dependencies in Linux with virtual environments.
 
 ## Conclusion
 

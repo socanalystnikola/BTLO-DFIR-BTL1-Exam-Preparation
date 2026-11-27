@@ -8,7 +8,7 @@ This repository documents practical cybersecurity and Digital Forensics and Inci
 
 The portfolio contains structured challenge write-ups, investigation workflows, commands, screenshots, technical findings, and conclusions.
 
-All documented exercises were performed in a **Kali Linux** environment.
+All documented exercises were performed in a **Linux** environment.
 
 ## Learning Objectives
 
@@ -34,7 +34,7 @@ All documented exercises were performed in a **Kali Linux** environment.
 
 | Component | Description |
 |---|---|
-| Operating System | Kali Linux |
+| Operating System | Linux |
 | Training Platform | Blue Team Labs Online (BTLO) |
 | Focus | Blue Team / SOC / DFIR |
 | Purpose | BTL1 Certification Preparation |

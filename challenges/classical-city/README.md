@@ -1,4 +1,4 @@
-﻿# Classical City
+# Classical City
 
 ## Challenge Information
 
@@ -7,7 +7,7 @@
 | Challenge | Classical City |
 | Category | Cryptography / Classical Ciphers |
 | Platform | Blue Team Labs Online (BTLO) |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Questions | 8 |
 | Completion Date | 23 September 2026 |
 | Screenshot | `images/Screenshot_27.png` |
@@ -18,7 +18,7 @@ Classical City is a cryptography challenge focused on recognizing and decoding s
 
 The investigation involves identifying the likely cipher from the structure of the input, interpreting the hints provided in each question, and applying the appropriate decoding method.
 
-The challenge was documented as part of practical BTLO exercises performed using Kali Linux.
+The challenge was documented as part of practical BTLO exercises performed using Linux.
 
 ## Evidence
 
@@ -45,7 +45,7 @@ The investigation process can be summarized as follows:
 5. Compare the resulting text with the expected flag format.
 6. Record the result and the decoding method.
 
-No dedicated Kali Linux command-line workflow was required by the original notes. The challenge was solved using browser-based tools and manual analysis.
+No dedicated Linux command-line workflow was required by the original notes. The challenge was solved using browser-based tools and manual analysis.
 
 ## Questions and Answers
 

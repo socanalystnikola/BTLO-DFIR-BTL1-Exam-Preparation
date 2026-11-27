@@ -1,4 +1,4 @@
-﻿# Memory Analysis - Ransomware
+# Memory Analysis - Ransomware
 
 ## Challenge Information
 
@@ -6,7 +6,7 @@
 |---|---|
 | Platform | Blue Team Labs Online (BTLO) |
 | Category | Memory Forensics / Malware Analysis |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Tool | Volatility 3 |
 | Evidence File | infected.vmem |
 | Completion Date | 24 September 2026, 09:31 |
@@ -37,7 +37,7 @@ The documented analysis identifies indicators associated with a WannaCry ransomw
 
 ### Step 1 - Environment Preparation
 
-Volatility 3 was installed in the Kali Linux environment.
+Volatility 3 was installed in the Linux environment.
 
     pip install volatility3 --break-system-packages
 
@@ -53,7 +53,7 @@ Review the available files:
 
     ls -la
 
-The `--break-system-packages` option was used in the documented Kali Linux environment to work around the externally-managed Python environment restriction.
+The `--break-system-packages` option was used in the documented Linux environment to work around the externally-managed Python environment restriction.
 
 ### Step 2 - Identify the Suspicious Process
 

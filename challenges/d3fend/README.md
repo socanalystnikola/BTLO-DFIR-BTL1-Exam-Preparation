@@ -1,4 +1,4 @@
-﻿# D3FEND
+# D3FEND
 
 ## Challenge Information
 
@@ -7,7 +7,7 @@
 | Challenge | D3FEND |
 | Category | Defensive Framework / Threat Detection |
 | Platform | Blue Team Labs Online (BTLO) |
-| Environment | Kali Linux / Web-based research |
+| Environment | Linux / Web-based research |
 | Evidence | Original challenge notes and screenshot |
 | Screenshot | `images/Screenshot_6.png` |
 

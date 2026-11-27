@@ -1,4 +1,4 @@
-﻿# Suspicious USB Stick
+# Suspicious USB Stick
 
 ## Challenge Information
 
@@ -6,7 +6,7 @@
 |---|---|
 | Platform | Blue Team Labs Online (BTLO) |
 | Category | Digital Forensics / Malware Analysis |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Training Context | BTL1 (Blue Team Level 1) exam preparation |
 | Completion Date | 24 September 2026, 10:20 |
 | Evidence | screenshot.png |
@@ -31,7 +31,7 @@ The investigation focuses on the USB autorun configuration, PDF file identificat
 
 ### 1. Extracting the USB Evidence
 
-The password-protected archive was extracted in Kali Linux using:
+The password-protected archive was extracted in Linux using:
 
     unzip USB.zip -d USB
 

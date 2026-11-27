@@ -1,4 +1,4 @@
-﻿# Follina - CVE-2022-30190
+# Follina - CVE-2022-30190
 
 ## Challenge Information
 
@@ -6,7 +6,7 @@
 |---|---|
 | Platform | Blue Team Labs Online (BTLO) |
 | Category | Malware Analysis |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Training Context | BTL1 (Blue Team Level 1) preparation |
 | Completion Date | 23 September 2026, 11:37 |
 | Vulnerability | CVE-2022-30190 |
@@ -21,7 +21,7 @@ The sample should not be executed on a production system.
 
 ## Tools and Utilities
 
-- Kali Linux
+- Linux
 - VirusTotal
 - sha1sum
 - file

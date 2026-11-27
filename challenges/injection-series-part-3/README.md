@@ -1,4 +1,4 @@
-﻿# Injection Series Part 3
+# Injection Series Part 3
 
 ## Challenge Overview
 
@@ -7,7 +7,7 @@
 | Platform | Blue Team Labs Online (BTLO) |
 | Challenge | Injection Series Part 3 |
 | Category | Malware Analysis / Reverse Engineering |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Completion Date | 28 September 2026 |
 | Completion Time | 13:54 |
 | Training Context | BTL1 (Blue Team Level 1) preparation |
@@ -20,7 +20,7 @@ The investigation focused on the program's `main` function and its use of memory
 
 ## Environment and Tools
 
-All documented practical work was performed using Kali Linux.
+All documented practical work was performed using Linux.
 
 | Tool | Purpose |
 |---|---|
@@ -202,5 +202,5 @@ This exercise provided practical experience in examining a Windows executable, i
 
 It reinforced the importance of examining program logic, validating API parameters, and distinguishing observed evidence from analytical conclusions.
 
-All practical work documented in this challenge was performed using Kali Linux as part of BTL1 preparation.
+All practical work documented in this challenge was performed using Linux as part of BTL1 preparation.
 

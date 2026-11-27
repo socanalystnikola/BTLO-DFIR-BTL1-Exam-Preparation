@@ -1,4 +1,4 @@
-﻿# Network Analysis - Web Shell
+# Network Analysis - Web Shell
 
 ## Challenge Information
 
@@ -7,7 +7,7 @@
 | Challenge | Network Analysis - Web Shell |
 | Category | Network Analysis / Web Shell Investigation |
 | Platform | Blue Team Labs Online (BTLO) |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Evidence File | `BTLOPortScan.pcap` |
 | Evidence Size | Approximately 584 KB |
 | Primary Tools | TShark, strings, grep, sort, uniq, awk |

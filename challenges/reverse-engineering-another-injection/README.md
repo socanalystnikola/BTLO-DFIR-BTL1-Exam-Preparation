@@ -7,7 +7,7 @@
 | Platform | Blue Team Labs Online (BTLO) |
 | Category | Malware Analysis / Reverse Engineering |
 | Challenge | Another Injection |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Preparation Context | Blue Team Level 1 (BTL1) Exam Preparation |
 | Evidence Screenshot | Screenshot_11.png |
 

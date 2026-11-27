@@ -1,4 +1,4 @@
-﻿# Secure Shell (SSH) Log Analysis
+# Secure Shell (SSH) Log Analysis
 
 ## Challenge Information
 
@@ -8,14 +8,14 @@
 | Category | Log Analysis |
 | Completion Date | 25 September 2026 |
 | Completion Time | 15:13 |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Purpose | BTL1 (Blue Team Level 1) exam preparation |
 
 ## Overview
 
 This challenge focuses on analysing SSH server logs to identify connection activity, authentication attempts, successful logins, and relevant system information.
 
-The investigation uses command-line tools available in Kali Linux to extract and interpret information from the supplied `sshlog.log` file.
+The investigation uses command-line tools available in Linux to extract and interpret information from the supplied `sshlog.log` file.
 
 ## Objectives
 

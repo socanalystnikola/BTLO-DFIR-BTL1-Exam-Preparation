@@ -1,4 +1,4 @@
-﻿# Log Analysis - Privilege Escalation
+# Log Analysis - Privilege Escalation
 
 ## Challenge Information
 
@@ -7,7 +7,7 @@
 | Challenge | Log Analysis - Privilege Escalation |
 | Platform | Blue Team Labs Online (BTLO) |
 | Category | Log Analysis / Linux Privilege Escalation |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Evidence | `bash_history` |
 | Completion Date | 21 September 2026 |
 | Purpose | BTL1 exam preparation |
@@ -31,7 +31,7 @@ The archive password provided by the challenge is `btlo`.
 
 ### Evidence Preparation
 
-The archive can be extracted in Kali Linux using:
+The archive can be extracted in Linux using:
 
     cd ~/Downloads
     unzip -P btlo "Log File.zip"

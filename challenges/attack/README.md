@@ -1,4 +1,4 @@
-﻿# ATT&CK
+# ATT&CK
 
 ## Challenge Information
 
@@ -7,7 +7,7 @@
 | Challenge | ATT&CK |
 | Category | Threat Intelligence / MITRE ATT&CK |
 | Platform | Blue Team Labs Online (BTLO) |
-| Environment | Kali Linux |
+| Environment | Linux |
 | Primary Resource | MITRE ATT&CK |
 | Investigation Type | Framework research and threat intelligence |
 | Evidence | Original challenge screenshot and saved investigation notes |

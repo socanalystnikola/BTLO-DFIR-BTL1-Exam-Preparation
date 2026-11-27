@@ -1,10 +1,10 @@
-﻿# Log Analysis - Compromised WordPress
+# Log Analysis - Compromised WordPress
 
 ## Challenge Information
 
 - **Platform:** Blue Team Labs Online (BTLO)
 - **Category:** Log Analysis / Web Application Security
-- **Environment:** Kali Linux
+- **Environment:** Linux
 - **Primary Evidence:** Apache `access.log`
 - **Focus:** WordPress compromise, web application exploitation, attacker tooling, and web shell activity
 - **Completion Date:** 24 September 2026
@@ -15,7 +15,7 @@ This investigation analyzes Apache access logs from a compromised WordPress webs
 
 The objective is to identify the attacker's login path, recognize tools used during reconnaissance and exploitation, identify vulnerable WordPress components, locate the uploaded PHP web shell, and determine the HTTP response code returned during its final recorded access.
 
-The investigation uses command-line log analysis techniques available on Kali Linux.
+The investigation uses command-line log analysis techniques available on Linux.
 
 ## 2. Evidence and Preparation
 
@@ -223,7 +223,7 @@ flowchart TD
 
 This challenge reinforces practical skills relevant to Blue Team and DFIR investigations:
 
-- Inspecting Apache access logs on Kali Linux.
+- Inspecting Apache access logs on Linux.
 - Understanding Apache Combined Log Format.
 - Extracting fields with `awk` and `cut`.
 - Searching and filtering log entries with `grep`.
@@ -254,4 +254,4 @@ The challenge demonstrates a practical web server log investigation involving Wo
 
 The analysis illustrates how simple Linux command-line utilities can extract useful indicators from Apache access logs and support a structured incident investigation.
 
-The exercise was completed in a Kali Linux environment as part of preparation for the Blue Team Level 1 (BTL1) certification.
+The exercise was completed in a Linux environment as part of preparation for the Blue Team Level 1 (BTL1) certification.
