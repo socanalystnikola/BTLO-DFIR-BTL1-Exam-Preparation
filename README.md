@@ -61,6 +61,7 @@ All documented exercises were performed in a **Kali Linux** environment.
 | Network Analysis - Malware Compromise | Network Analysis / Malware Analysis | [View Challenge](challenges/network-analysis-malware-compromise/README.md) |
 | Network Analysis - Web Shell | Network Analysis / Web Shell Investigation | [View Challenge](challenges/network-analysis-web-shell/README.md) |
 | Reverse Engineering - A Classic Injection | Malware Analysis / Reverse Engineering | [View Challenge](challenges/reverse-engineering-a-classic-injection/README.md) |
+| Reverse Engineering - Another Injection | Malware Analysis / Reverse Engineering | [View Challenge](challenges/reverse-engineering-another-injection/README.md) |
 | Secure Shell | Network Security / SSH | [View Challenge](challenges/secure-shell/README.md) |
 | Squid Game | Miscellaneous / Challenge Investigation | [View Challenge](challenges/squid-game/README.md) |
 | Suspicious USB Stick | Digital Forensics / Malware Analysis | [View Challenge](challenges/suspicious-usb-stick/README.md) |
