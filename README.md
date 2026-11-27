@@ -65,6 +65,7 @@ All documented exercises were performed in a **Linux** environment.
 | Secure Shell | Network Security / SSH | [View Challenge](challenges/secure-shell/README.md) |
 | Squid Game | Miscellaneous / Challenge Investigation | [View Challenge](challenges/squid-game/README.md) |
 | Suspicious USB Stick | Digital Forensics / Malware Analysis | [View Challenge](challenges/suspicious-usb-stick/README.md) |
+| The Report | Threat Intelligence / Threat Detection | [View Challenge](challenges/the-report/README.md) |
 | The Report II | SOC Operations / SOC Strategy | [View Challenge](challenges/the-report-ii/README.md) |
 
 ## Documentation Approach
