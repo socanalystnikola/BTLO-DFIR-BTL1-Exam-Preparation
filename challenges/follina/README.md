@@ -88,3 +88,18 @@ The exercise supports BTL1 preparation by reinforcing evidence handling, basic m
 
 - screenshot.png - BTLO challenge screenshot.
 
+
+## Investigation Workflow
+
+```mermaid
+flowchart TD
+    A["Suspicious Office document: sample.doc"] --> B["File identification: Office Open XML"]
+    A --> C["SHA1 hash calculation"]
+    B --> D["Document extraction"]
+    D --> E["Inspect document.xml.rels"]
+    E --> F["Identify suspicious external URL"]
+    F --> G["Record IOC for investigation"]
+    G --> H["CVE-2022-30190: Follina context"]
+    H --> I["Potential endpoint follow-up: msdt.exe"]
+    I --> J["Execution telemetry not independently verified"]
+```

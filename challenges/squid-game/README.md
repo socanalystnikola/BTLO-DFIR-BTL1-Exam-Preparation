@@ -87,3 +87,21 @@ The investigation identified the invitation phone number, extracted Dalgona.png 
 ## Evidence
 
 - `screenshot.png` - BTLO challenge screenshot.
+
+## Multi-Layer Steganography Analysis Workflow
+
+```mermaid
+flowchart TD
+    A["Invitation Card.jpg"] --> B["File identification and ExifTool metadata inspection"]
+    B --> C["Identify invitation phone number"]
+    C --> D["Passphrase: 86504006"]
+    D --> E["Steghide extraction"]
+    E --> F["Extracted file: Dalgona.png"]
+    F --> G["Stegsolve image-layer analysis"]
+    G --> H["Gray Bits reveal: Red Pixel"]
+    H --> I["PixSpy RGB pixel inspection"]
+    I --> J["Collect red-channel values"]
+    J --> K["dCode ASCII decoding"]
+    K --> L["Final flag: SBT{S4v3_My4nm4r_Guy5}"]
+    L --> M["Document findings and analysis workflow"]
+```

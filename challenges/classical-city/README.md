@@ -259,3 +259,24 @@ The documented answers and procedures are based on the original challenge notes.
 ## Screenshot
 
 ![Classical City Challenge Screenshot](images/Screenshot_27.png)
+
+## Classical Cipher Analysis Workflow
+
+```mermaid
+flowchart TD
+    A["Encoded input and challenge hint"] --> B["Inspect character patterns and structure"]
+    B --> C["Identify likely cipher or transformation"]
+    C --> D["Select decoding method"]
+    D --> E["Transposition / Rail Fence"]
+    D --> F["Keyboard Shift / ROT"]
+    D --> G["Leet Speak / ASCII offset"]
+    D --> H["NATO phonetic alphabet"]
+    E --> I["Apply decoding with dCode.fr, CyberChef or manual analysis"]
+    F --> I
+    G --> I
+    H --> I
+    I --> J["Compare output with expected flag format"]
+    J --> K["Record answer and decoding method"]
+    K --> L["Document evidence limitations"]
+    L --> M["Answers not independently reproduced"]
+```

@@ -199,3 +199,31 @@ The preserved notes and screenshots provide a record of the challenge material a
 ---
 
 *Documentation prepared as part of a practical DFIR and SOC learning portfolio for BTL1 examination preparation.*
+
+## SOC Operations and Decision-Making Workflow
+
+```mermaid
+flowchart TD
+    A["SOC Operating Model"] --> B["Organizational Roles: NOC, SOC, ISCM"]
+    B --> C["Distributed SOC and Follow-the-Sun Coverage"]
+    C --> D["Continuous Monitoring"]
+    D --> E["Alert Detection and Triage"]
+    E --> F["Incident Prioritization"]
+    F --> G["Phishing: Medium"]
+    F --> H["Insider Threat: High"]
+    F --> I["Pre-incident Port Scanning: Low"]
+    G --> J["OODA Decision Cycle"]
+    H --> J
+    I --> J
+    J --> K["Observe"]
+    K --> L["Orient"]
+    L --> M["Decide"]
+    M --> N["Act"]
+    N --> O["Response, Escalation and Continuous Monitoring"]
+    O --> D
+    P["Threat Intelligence: STIX and TAXII"] --> E
+    Q["Forensic Data: PCAP and EDR Telemetry"] --> E
+    R["Pyramid of Pain: Hashes, IPs, Tools, TTPs"] --> S["Detection Strategy"]
+    T["Adversary Emulation"] --> S
+    S --> E
+```

@@ -238,3 +238,28 @@ This challenge reinforces practical memory-forensics skills relevant to incident
 ---
 
 **Training Disclaimer:** This repository documents a controlled Blue Team Labs Online exercise performed as part of BTL1 preparation. It is intended for educational and defensive security purposes.
+
+## Memory Forensics Process Correlation
+
+```mermaid
+flowchart TD
+    A["Windows memory image: infected.vmem"] --> B["Volatility 3 analysis"]
+    B --> C["windows.pslist: identify suspicious process"]
+    C --> D["@WanaDecryptor: PID 2968, PPID 2732"]
+    D --> E["Correlate PPID 2732 with process listing"]
+    E --> F["or4qtckT.exe: PID 2732, PPID 1456"]
+    F --> G["windows.cmdline: recover executable path"]
+    G --> H["C:\\Users\\hacker\\Desktop\\or4qtckT.exe"]
+    B --> I["windows.psscan: inspect process artifacts"]
+    I --> J["taskdl.exe: PID 4060, PPID 2732"]
+    B --> K["windows.filescan: search file objects"]
+    K --> L["00000000.eky"]
+    D --> M["Research ransomware indicators"]
+    M --> N["Challenge attribution: WannaCry"]
+    H --> O["Correlate documented findings"]
+    J --> O
+    L --> O
+    N --> O
+    O --> P["Record evidence and limitations"]
+    P --> Q["Original memory image not independently re-analyzed"]
+```

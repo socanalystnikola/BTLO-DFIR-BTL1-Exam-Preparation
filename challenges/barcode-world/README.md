@@ -242,3 +242,22 @@ The original notes report the flag `SBT{B4rc0d3_H15t0Ry}`. The repository preser
 ## Screenshot
 
 ![Barcode World Challenge Screenshot](images/Screenshot_28.png)
+
+## Barcode Analysis Workflow
+
+```mermaid
+flowchart TD
+    A["Numbered PNG images: 1.png - 9374.png"] --> B["Python image-processing loop"]
+    B --> C["OpenCV: load image"]
+    C --> D["pyzbar: decode barcode"]
+    D --> E["Collect decoded barcode bytes"]
+    E --> F["Convert bytes to characters using chr()"]
+    F --> G["Write barcode_output.txt"]
+    H["Decimal ASCII input"] --> I["awk: convert decimal values to characters"]
+    I --> J["Write decoded_text.txt"]
+    G --> K["Search decoded text"]
+    J --> K
+    K --> L["grep: search for SBT{...} flag pattern"]
+    L --> M["Reported flag: SBT{B4rc0d3_H15t0Ry}"]
+    M --> N["Not independently reproduced from original dataset"]
+```

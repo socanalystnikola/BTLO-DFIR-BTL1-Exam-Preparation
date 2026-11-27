@@ -111,3 +111,28 @@ The challenge demonstrates a process-injection workflow in which a Windows execu
 ## Evidence
 
 - `screenshot.png` - BTLO challenge screenshot.
+
+## Process Injection Analysis Workflow
+
+```mermaid
+flowchart TD
+    A["Windows PE sample"] --> B["Static analysis: rabin2 and radare2"]
+    B --> C["Identify compiler, strings and Sleep call"]
+    C --> D["Sleep: 180 seconds"]
+    C --> E["Password check: btlo"]
+    B --> F["Inspect injection APIs"]
+    F --> G["VirtualAllocEx: 473-byte allocation"]
+    G --> H["WriteProcessMemory"]
+    H --> I["CreateRemoteThread"]
+    I --> J["Target process: nslookup.exe"]
+    J --> K["Shellcode-related execution path"]
+    K --> L["Recorded PowerShell activity"]
+    L --> M["C:\\Windows\\Temp\\btlo.txt"]
+    M --> N["Recorded content: Welcome to BTLO!"]
+    B --> O["Static findings: Q1-Q6"]
+    L --> P["Dynamic findings: Q7-Q9"]
+    P --> Q["ProcMon evidence not independently available"]
+    O --> R["Correlate and document findings"]
+    Q --> R
+    R --> S["Record evidence limitations"]
+```

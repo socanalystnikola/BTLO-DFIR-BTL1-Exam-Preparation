@@ -138,3 +138,25 @@ The main forensic lesson is that metadata should be examined carefully and indep
 
 - `screenshot.png` - BTLO challenge screenshot.
 
+
+## Image Metadata Analysis Workflow
+
+```mermaid
+flowchart TD
+    A["Supplied image files"] --> B["First image: uploaded_1.JPG"]
+    B --> C["ExifTool metadata extraction"]
+    C --> D["Camera model: Canon EOS 550D"]
+    C --> E["Timestamp: 2021:11:02 13:20:23"]
+    C --> F["Extract embedded comment"]
+    F --> G["Review possible metadata manipulation"]
+    A --> H["Second image"]
+    H --> I["Google Images / Yandex Reverse Image Search"]
+    I --> J["Visual comparison"]
+    J --> K["Likely location: Kathmandu"]
+    D --> L["Correlate findings"]
+    E --> L
+    G --> L
+    K --> L
+    L --> M["Assess metadata reliability and corroboration"]
+    M --> N["Document findings and limitations"]
+```

@@ -194,3 +194,22 @@ Correctly identifying ATT&CK objects helps analysts describe adversary behavior 
 ## Screenshot
 
 ![ATT&CK Challenge Screenshot](images/Screenshot_13.png)
+
+## ATT&CK Research Workflow
+
+```mermaid
+flowchart TD
+    A["Review security question"] --> B["Extract keywords and behavior"]
+    B --> C["Search MITRE ATT&CK"]
+    C --> D["Identify ATT&CK object type"]
+    D --> E["Technique: T#### / T####.###"]
+    D --> F["Tactic: TA####"]
+    D --> G["Software: S####"]
+    D --> H["Group: G####"]
+    E --> I["Review descriptions and supporting information"]
+    F --> I
+    G --> I
+    H --> I
+    I --> J["Record identifier and detection guidance"]
+    J --> K["Document findings and limitations"]
+```

@@ -135,3 +135,26 @@ The Report provided practical experience in threat intelligence research using a
 The preserved screenshot and challenge notes document the work performed. The answers remain subject to independent verification against the original Red Canary report.
 
 This challenge contributes to preparation for the Blue Team Level 1 (BTL1) certification by strengthening foundational threat intelligence and security research skills.
+
+## Threat Intelligence Research Workflow
+
+```mermaid
+flowchart TD
+    A["Open Red Canary 2022 Threat Detection Report"] --> B["Review challenge questions"]
+    B --> C["Search PDF using relevant keywords"]
+    C --> D["Review surrounding report context"]
+    D --> E["Identify security topic"]
+    E --> F["Vulnerability research: Log4j, ProxyLogon, ProxyShell, PrintNightmare"]
+    E --> G["MITRE ATT&CK: T1059 and execution behavior"]
+    E --> H["Initial access: SEO poisoning and malware precursors"]
+    E --> I["Malware and ransomware: Qbot, Bazar, IcedID, Conti"]
+    E --> J["Defensive controls: MFA for RDP"]
+    F --> K["Cross-check technical details and CVE identifiers"]
+    G --> K
+    H --> K
+    I --> K
+    J --> K
+    K --> L["Record answers and supporting context"]
+    L --> M["Document evidence and verification limitations"]
+    M --> N["Preserve research findings"]
+```

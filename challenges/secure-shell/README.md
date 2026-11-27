@@ -174,3 +174,28 @@ The exercise reinforced the importance of distinguishing evidence directly obtai
 
 This documentation describes a controlled educational challenge performed for defensive security training and BTL1 (Blue Team Level 1) exam preparation. Findings are based on the supplied challenge material and recorded investigation notes.
 
+
+## SSH Log Analysis Workflow
+
+```mermaid
+flowchart TD
+    A["Supplied sshlog.log"] --> B["Initial inspection: file, wc, head"]
+    B --> C["Extract and count IP addresses"]
+    C --> D["Most frequent source: 192.168.1.17"]
+    D --> E["Connection analysis"]
+    E --> F["192.168.1.17 to 192.168.1.20:22"]
+    B --> G["Filter Accepted password entries"]
+    G --> H["Successful account: sophia"]
+    G --> I["Two successful password authentications"]
+    B --> J["Inspect debug-level messages"]
+    J --> K["Recorded verbosity: Debug 3"]
+    F --> L["Correlate SSH activity"]
+    H --> L
+    I --> L
+    K --> L
+    B --> M["External Windows OpenSSH research"]
+    M --> N["C:\\ProgramData\\ssh\\logs\\sshd.log"]
+    N --> O["Not verified from supplied SSH log"]
+    L --> P["Document findings and limitations"]
+    O --> P
+```

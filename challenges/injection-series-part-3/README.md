@@ -204,3 +204,26 @@ It reinforced the importance of examining program logic, validating API paramete
 
 All practical work documented in this challenge was performed using Linux as part of BTL1 preparation.
 
+
+## Static Malware Analysis and Execution Flow
+
+```mermaid
+flowchart TD
+    A["sample1.exe: PE32 identification"] --> B["Static analysis in Cutter / radare2"]
+    B --> C["Inspect main function and command-line arguments"]
+    C --> D{"Identified argument"}
+    D --> E["message: shellcode-related path"]
+    D --> F["killall: PowerShell process path"]
+    E --> G["VirtualAlloc: 288 bytes / MEM_COMMIT"]
+    G --> H["memmove: copy operation"]
+    H --> I["CreateThreadpoolWait: synchronization reference"]
+    I --> J["Shellcode-related behavior documented"]
+    F --> K["Embedded Base64 PowerShell content"]
+    K --> L["Decode Base64 and convert UTF-16LE to UTF-8"]
+    L --> M["Extract event log names"]
+    M --> N["Application / Windows PowerShell / Security / System"]
+    J --> O["Correlate static analysis findings"]
+    N --> O
+    O --> P["Document findings and evidence limitations"]
+    P --> Q["Runtime execution not independently verified"]
+```

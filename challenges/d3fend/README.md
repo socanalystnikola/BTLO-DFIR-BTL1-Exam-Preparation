@@ -135,3 +135,25 @@ The results documented here preserve the answers and research references from th
 
 
 
+
+## Defensive Framework Research Workflow
+
+```mermaid
+flowchart TD
+    A["Review challenge questions"] --> B["Identify D3FEND identifier or security concept"]
+    B --> C["Search official MITRE D3FEND documentation"]
+    C --> D{"Identify information type"}
+    D --> E["Defensive technique"]
+    D --> F["Defensive tactic category"]
+    D --> G["Artifact definition"]
+    D --> H["Related open-source project"]
+    E --> I["Record official name and description"]
+    F --> I
+    G --> I
+    H --> J["Review Sentinel2D3FEND project purpose"]
+    J --> I
+    I --> K["Compare findings with original challenge notes"]
+    K --> L["Document answers and references"]
+    L --> M["Record evidence limitations"]
+    M --> N["Definitions do not prove activity on an endpoint"]
+```

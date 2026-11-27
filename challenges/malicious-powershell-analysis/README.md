@@ -285,3 +285,28 @@ This exercise demonstrates a practical static-analysis workflow for encoded Powe
 The original BTLO challenge screenshot is included in this directory:
 
 - `screenshot.png`
+
+## Emotet PowerShell Static Analysis Workflow
+
+```mermaid
+flowchart TD
+    A["Encoded PowerShell command"] --> B["Extract Base64 content"]
+    B --> C["Base64 decode"]
+    C --> D["Convert UTF-16LE to readable PowerShell"]
+    D --> E["Inspect decoded script"]
+    E --> F["Reconstruct obfuscated strings"]
+    F --> G["Identify TLS 1.2 configuration"]
+    F --> H["Reconstruct directory path"]
+    F --> I["Identify downloaded DLL: A69S.dll"]
+    F --> J["Reconstruct rundll32 execution command"]
+    F --> K["Extract remote URI and domain"]
+    G --> L["Correlate static findings"]
+    H --> L
+    I --> L
+    J --> L
+    K --> L
+    L --> M["Record IoCs and suspected behavior"]
+    M --> N["Challenge attribution: Emotet"]
+    N --> O["Document limitations"]
+    O --> P["No live execution or network activity independently verified"]
+```

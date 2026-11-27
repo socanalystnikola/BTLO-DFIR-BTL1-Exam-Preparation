@@ -170,3 +170,25 @@ The challenge reinforces practical DFIR skills involving removable-media investi
 The original BTLO challenge completion screenshot is included as:
 
 - screenshot.png
+
+## USB and PDF Investigation Flow
+
+```mermaid
+flowchart TD
+    A["Password-protected USB.zip"] --> B["Extract archive"]
+    B --> C["Inspect autorun.inf"]
+    C --> D["Identified target: README.pdf"]
+    D --> E["Calculate SHA256 hash"]
+    E --> F["Recorded VirusTotal result: 43/63 detections"]
+    D --> G["Verify PDF magic bytes: %PDF"]
+    D --> H["Extract and inspect strings"]
+    H --> I["Windows indicators: cmd.exe and system32"]
+    D --> J["Search PDF structure"]
+    J --> K["One /OpenAction occurrence"]
+    F --> L["Correlate static findings"]
+    G --> L
+    I --> L
+    K --> L
+    L --> M["Document findings and limitations"]
+    M --> N["No PDF execution independently verified"]
+```
